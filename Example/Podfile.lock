@@ -1,0 +1,16 @@
+PODS:
+  - ZHLNetWork (0.1.0)
+
+DEPENDENCIES:
+  - ZHLNetWork (from `../`)
+
+EXTERNAL SOURCES:
+  ZHLNetWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHLNetWork: afaafd006bc2f60e6811adce22f26cb43c4ddc87
+
+PODFILE CHECKSUM: 115c8ecbcad5abfac34feb81af3dc9cc4a709b8d
+
+COCOAPODS: 1.9.3
